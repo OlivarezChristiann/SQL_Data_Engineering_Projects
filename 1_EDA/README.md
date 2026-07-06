@@ -1,6 +1,6 @@
 # Exploratory Data Analysis with SQL: Data Engineer Job Market Insights
 
-![Project 1 Overview](../images\project_overview.png)
+![Project 1 Overview](../images/project_overview.png)
 
 
 The project is organized into **five SQL analysis files**, each answering a specific business question through structured SQL queries. The dataset is stored in **MotherDuck** as the cloud data warehouse and analyzed using **DuckDB**. The analyses are divided into:
@@ -43,7 +43,7 @@ As the demand for Data Engineers continues to grow, aspiring professionals and c
 ## 🗄️ Data Warehouse & Star Schema
 The analysis is built on a **star schema data model** stored in **MotherDuck**, with **DuckDB** used as the SQL query engine. The schema consists of a central fact table containing job posting records, connected to dimension tables for companies and technical skills. This design enables efficient SQL joins and analytical queries across the dataset.
 
-![Data Warehouse](../images\data_warehouse_erd.png)
+![Data Warehouse](../images/data_warehouse_erd.png)
 
 ### Table Descriptions
 
