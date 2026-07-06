@@ -149,7 +149,7 @@ This project demonstrates how SQL can be used to transform raw job posting data 
 
 The project also showcases practical SQL, data modeling, and analytical techniques commonly used in real-world data engineering and business intelligence workflows.
 
-## 👤 About the Author
+## Author
 
 **Christian Oliver A. Olivarez**
 
@@ -158,3 +158,5 @@ Aspiring **Data Engineer** with a passion for data engineering, cloud technologi
 - 💼 LinkedIn: *https://www.linkedin.com/in/christian-oliver-olivarez-8746bb28b/*
 - 🐙 GitHub: *https://github.com/OlivarezChristiann*
 - 📧 Email: *christianolivarez061605@gmail.com*
+
+*This documentation was initially drafted with AI assistance and reviewed and edited by the author.*
