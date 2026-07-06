@@ -9,8 +9,8 @@ Welcome to my SQL Data Engineering portfolio. This repository contains hands-on 
 Analyze the global remote and Philippine Data Engineer job market using SQL, DuckDB, and MotherDuck.
 
 ➡️ **Open Project:**  
-**https://github.com/OlivarezChristiann/SQL_Data_Engineering_Projects/tree/main/1_EDA**
 
+📂 **[View Project on GitHub](https://github.com/OlivarezChristiann/SQL_Data_Engineering_Projects/tree/main/1_EDA)**
 ---
 
 More SQL projects will be added soon.
