@@ -23,10 +23,10 @@ This project explores the **Data Engineer Job Market** using SQL and the **Luke 
 If you have time, feel free to explore the SQL analyses to see the queries, methodology, and insights behind each finding:
 
 - 📊 **[Top In-Demand Skills](01_top_demanded_skills.sql)**
-- 💰 **[Highest-Paying Skills](EDA/02_highest_paying_skills.sql)**
-- ⚖️ **[Most Valuable Skills (Salary vs. Demand)](EDA/03_most_valuable_skills.sql)**
-- 🇵🇭 **[Top In-Demand Skills in the Philippines](EDA/04_top_in_demand_skills_philippines.sql)**
-- 🏢 **[Top Hiring Companies in the Philippines](EDA/05_top_hiring_companies_philippines.sql)**
+- 💰 **[Highest-Paying Skills](02_top_paying_skills.sql)**
+- ⚖️ **[Most Valuable Skills (Salary vs. Demand)](03_top_optimal_skills.sql)**
+- 🇵🇭 **[Top In-Demand Skills in the Philippines](04_top_skills_philippines.sql)**
+- 🏢 **[Top Hiring Companies in the Philippines](05_top_hiring_companies_philippines.sql)**
 
 ## 🎯 Problem & Context
 
@@ -78,11 +78,11 @@ The project is organized into five SQL analyses, each designed to answer a speci
 
 | Analysis | Business Question | Description |
 |----------|-------------------|-------------|
-| **[Top In-Demand Skills](EDA/1_top_in_demand_skills.sql)** | What are the top in-demand skills for Data Engineers? | Identifies the most frequently requested skills in remote Data Engineer job postings to highlight current market demand. |
-| **[Highest-Paying Skills](EDA/2_highest_paying_skills.sql)** | What are the highest-paying skills for Data Engineers? | Analyzes the median annual salary associated with each skill to identify technologies linked to higher compensation. |
-| **[Most Valuable Skills](EDA/3_most_valuable_skills.sql)** | What are the most valuable skills based on salary and demand? | Combines salary and market demand to determine which skills provide the greatest overall career value. |
-| **[Top In-Demand Skills in the Philippines](EDA/4_top_in_demand_skills_philippines.sql)** | What are the most in-demand skills for Data Engineers in the Philippines? | Examines the technologies most frequently requested by employers within the Philippine job market. |
-| **[Top Hiring Companies in the Philippines](EDA/5_top_hiring_companies_philippines.sql)** | Which companies are hiring the most Data Engineers in the Philippines? | Identifies the organizations with the highest number of Data Engineer job postings in the Philippines. |
+| **[Top In-Demand Skills](01_top_demanded_skills.sql)** | What are the top in-demand skills for Data Engineers? | Identifies the most frequently requested skills in remote Data Engineer job postings to highlight current market demand. |
+| **[Highest-Paying Skills](02_top_paying_skills.sql)** | What are the highest-paying skills for Data Engineers? | Analyzes the median annual salary associated with each skill to identify technologies linked to higher compensation. |
+| **[Most Valuable Skills](03_top_optimal_skills.sql)** | What are the most valuable skills based on salary and demand? | Combines salary and market demand to determine which skills provide the greatest overall career value. |
+| **[Top In-Demand Skills in the Philippines](04_top_skills_philippines.sql)** | What are the most in-demand skills for Data Engineers in the Philippines? | Examines the technologies most frequently requested by employers within the Philippine job market. |
+| **[Top Hiring Companies in the Philippines](05_top_hiring_companies_philippines.sql)** | Which companies are hiring the most Data Engineers in the Philippines? | Identifies the organizations with the highest number of Data Engineer job postings in the Philippines. |
 
 Each analysis is supported by SQL queries, query results, and business insights to transform raw job posting data into actionable career recommendations.
 
