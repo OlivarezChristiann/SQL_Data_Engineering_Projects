@@ -155,7 +155,7 @@ The project also showcases practical SQL, data modeling, and analytical techniqu
 
 Aspiring **Data Engineer** with a passion for data engineering, cloud technologies, and analytics. This project was developed as part of my data engineering portfolio to demonstrate practical SQL skills, data modeling, and exploratory data analysis using real-world job market data.
 
-- 💼 LinkedIn: *https://www.linkedin.com/in/christian-oliver-olivarez-8746bb28b/*
+- 💼 LinkedIn: *https://www.linkedin.com/in/christianoliverolivarez/*
 - 🐙 GitHub: *https://github.com/OlivarezChristiann*
 - 📧 Email: *christianolivarez061605@gmail.com*
 
